@@ -1,0 +1,12 @@
+body {
+    background: silver;
+}
+
+.line {
+    border-bottom: 2px solid black;
+}
+
+.contacts {
+    color: black;
+    text-decoration: none;
+}
